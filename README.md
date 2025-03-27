@@ -122,7 +122,7 @@ Feel free to **fork** this repo, **improve** the model, and create a **pull requ
 
 ## 📩 Contact
 If you have any questions, feel free to reach out:
-🔗 LinkedIn: Sandip Verma
+🔗 LinkedIn: [Sandip Verma](https://github.com/SandipVermaDev)
 
 ---
 
