@@ -29,17 +29,20 @@ This project utilizes historical car data, processes it, and applies a **Machine
 ## 📂 Dataset Information  
 The dataset includes key attributes that influence car pricing:  
 
-| Feature         | Description |
-|----------------|------------|
-| `name`         | Car model |
-| `year`         | Year of manufacture |
-| `selling_price`| Selling price in INR |
-| `km_driven`    | Total kilometers driven |
-| `fuel`         | Fuel type (Petrol/Diesel/CNG/Electric) |
-| `seller_type`  | Type of seller (Dealer/Individual) |
-| `transmission` | Transmission type (Manual/Automatic) |
-| `owner`        | Number of previous owners |
-| `mileage`, `engine`, `max_power`, `seats` | Car specifications |
+| Variable | Description |
+| --- | --- |
+| make| machine firm |
+| model| machine model |
+|price USD| price in USD (target variable)|
+| year| year of production|
+| condition| represents the condition at the sale moment (with mileage, for parts, etc)|
+| mileage| mileage in kilometers|
+| fuel type| type of the fuel (electro, petrol, diesel)|
+| volume(cm3)| volume of the engine in cubic centimeters|
+| color| color of the car|
+| transmission| type of transmission|
+| drive unit| drive unit|
+| segment| segment of the car|
 
 📌 **Dataset Source:** [Car Data](https://www.kaggle.com/datasets/slavapasedko/belarus-used-cars-prices)
 
