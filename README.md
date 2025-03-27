@@ -41,7 +41,7 @@ The dataset includes key attributes that influence car pricing:
 | `owner`        | Number of previous owners |
 | `mileage`, `engine`, `max_power`, `seats` | Car specifications |
 
-📌 **Dataset Source:** https://www.kaggle.com/datasets/slavapasedko/belarus-used-cars-prices  
+📌 **Dataset Source:** [Car Data](https://www.kaggle.com/datasets/slavapasedko/belarus-used-cars-prices)
 
 ---
 
